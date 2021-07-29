@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - [Telegram](https://telegram.dog/expertinbotmaking)
 
-p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+<a href="https://github.com/progagan"><img src="https://komarev.com/ghpvc/?username=progagan&label=Profile%20views&color=0e75b6&style=flat" alt="progagan" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
