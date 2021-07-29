@@ -10,6 +10,7 @@
 <details>
   <summary>GitHub Stats</summary>
   <br/>
+<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://github-profile-trophy.vercel.app/?username=AbirHasan2005" alt="AbirHasan2005" /></a> </p>
 
 
 <!---
