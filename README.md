@@ -2,9 +2,15 @@
 - This is my New git account here i will make best opensource projects
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
+-  ( ) Docker
+   ( ) Python
+   ( ) Java
+   ( ) Bash
+   ( )  10th class
 - 💞️ I’m very interested in taking services with free of cost...
 - 📫 How to reach me ...
 - [Telegram](https://telegram.dog/expertinbotmaking)
+
 
 <a href="https://github.com/progagan"><img src="https://komarev.com/ghpvc/?username=progagan&label=Profile%20views&color=0e75b6&style=flat" alt="progagan" /></a> </p>
 
